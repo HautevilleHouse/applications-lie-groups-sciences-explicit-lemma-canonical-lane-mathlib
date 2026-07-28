@@ -1,0 +1,9 @@
+import applications_lie_groups_sciences_explicit_lemma_canonical_lane_mathlib.GateLemmas
+namespace HautevilleHouse
+namespace applications_lie_groups_sciences_explicit_lemma_canonical_lane_mathlib
+structure ConstrainedTheoremClosure where
+  admissible :: intro :: constraint :: consequence :: proof ::
+theorem canonical : ConstrainedTheoremClosure :=
+  ConstrainedTheoremClosure.intro
+end applications_lie_groups_sciences_explicit_lemma_canonical_lane_mathlib
+end HautevilleHouse
